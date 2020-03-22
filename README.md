@@ -1,12 +1,33 @@
-Repository Contains Ignitus Meta-Data.
+### Design UI KIT.
+ * Access our react-components library [Library](http://www.ignitus.org/interface/colors).
+ * Access our user-Interface design [Figma]( https://www.figma.com/file/BrP5RowC7va50HyETZQUDA/Ignitus-Design?node-id=0%3A1)
 
-I’d like to introduce Ignitus (A Non-Profit Organization ) that helps students and professionals get handpicked top-quality global research and industrial internships, for free! The students participate in projects and training programs supervised by our experts. Our only goal is- 'Skyrocketing a students’ career by providing best global opportunities'.
-The platform has got exponential growth after successful internship completion by the associated students with researchers from SAIL (Stanford AI Lab) and Oxford University.
 
-Ignitus is working with a non-profit (GirlsScript Foundation) which is committed to bringing together multiple such initiatives for a grand scale open-source project development program for women.
+<div align="center">
+  <br>
+   <img src="https://github.com/Ignitus/Ignitus-UI-Kit/blob/master/ignitus-Assets/kit.png" alt="Ignitus.org" width="500">
+  <br>
+</div>
 
-We have come a long way from humble beginnings, we now have 300+ targeted students, researchers who have actively volunteered to be a part of our organization.
-We aim to serve a larger student community in future.
+### Contributing.
 
-Team Ignitus boasts of a dedicated workforce from Boston, Florida, Pittsburg, Madrid, Houston, Munich and different parts of India.
-For more information about the organization please visit - https://angel.co/ignitus-2.
+- Please check the [Contribution Guidelines](https://github.com/Ignitus/Ignitus-Client-Side-Development/blob/master/.github/CONTRIBUTION/CONTRIBUTION.md).
+- Please check the [Coding Conventions](https://github.com/Ignitus/Ignitus-client/wiki/CodeGuidelines-And-Conventions).
+
+
+<p>
+  <sub>Built with ❤︎ by
+    <a href="https://github.com/liyasthomas/postwoman/graphs/contributors">contributors.</a>
+  </sub>
+</p>
+
+<div align="center">
+  <br>
+  <img src="https://media.giphy.com/media/l46ChKeGsmsfE3Un6/giphy.gif" alt="Ignitus.org" width="200">
+  <br>
+  <h3>Happy Coding ☘️.</h3>
+  <p>https://ignitus-tech-stack.herokuapp.com/</p>
+</div>
+
+
+
